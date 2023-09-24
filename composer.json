@@ -1,0 +1,6 @@
+{
+    "require": {
+        "peterson/database": "^4.3.7",
+        "peterson/validator": "^4.0.1" 
+    }
+}
